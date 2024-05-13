@@ -1,4 +1,4 @@
-package br.com.project.api.modelo;
+package br.com.project.api.model;
 
 public class PessoaModel {
     
